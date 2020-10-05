@@ -37,7 +37,7 @@ Once your server has started, go to this url http://localhost:8080/ and you will
 
 ## Status of the project
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b035e4c5-08bd-408d-a05a-ec1fe69cb5d7/deploy-status)](https://app.netlify.com/sites/sindifeirantesma/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/521e1259-3f8f-4b5b-8446-ff1fe8401736/deploy-status)](https://app.netlify.com/sites/sindifeirantesma/deploys)
 
 
 ### Template developed by https://github.com/cobidev/simplefolio
